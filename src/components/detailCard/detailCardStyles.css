@@ -1,0 +1,21 @@
+.cardContainer {
+    padding: 5px;
+    border: 1px solid #cdcdcd;
+}
+
+.cardBody {
+    padding: 10px;
+    border-bottom: 1px dashed #cdcdcd;
+}
+
+.cardFooter {
+    padding: 10px;
+}
+
+.bodyTitle {
+    font-size: 28px;
+}
+
+.bodyDescription {
+    font-size: 12px;
+}
